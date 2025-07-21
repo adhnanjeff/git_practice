@@ -18,3 +18,5 @@ git push -u origin main
 "chore: message"            ---- not much important 
 
 git diff                    ---- shows all changes made
+git checkout -b "branch_main" ---- creates a new branch and moves to it
+get checkout main           ---- moves to the specified branch
