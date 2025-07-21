@@ -14,17 +14,17 @@ Welcome to the Git Essentials guide! This README documents my learning progress,
 
 ## 💻 Commands Used
 
-  git clone <repository-link>
-  git --version
-  git config --global user.name "<Your Name>"
-  git config --global user.email "<Your Email>"
-  git init
-  git status
-  git add .
-  git commit -m "your message"
-  git pull origin <branch-name>
-  git push origin <branch-name>
-  git branch --set-upstream-to=origin/<branch> <your-local-branch>
+- ✅git clone <repository-link>
+- ✅git --version
+- ✅git config --global user.name "<Your Name>"
+- ✅git config --global user.email "<Your Email>"
+- ✅ git init
+- ✅ git status
+- ✅  git add .
+- ✅  git commit -m "your message"
+- ✅  git pull origin <branch-name>
+- ✅  git push origin <branch-name>
+- ✅ git branch --set-upstream-to=origin/<branch> <your-local-branch>
 
 ---
 
