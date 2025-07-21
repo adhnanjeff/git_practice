@@ -1,5 +1,4 @@
 Hello this is adhnan
-
 Staging 
 git add . 
 git add hello.txt
