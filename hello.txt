@@ -1,8 +1,18 @@
 Hello this is adhnan
-"fix:message"
-"feat:adding index.html"
-"refactor:message"
+
+Staging 
+git add . 
+git add hello.txt
+
+git commit -m "feat: Initial commit"
+git remote add origin https://github.com/adhnanjeff/git_practice.git
+git branch -M main
+git push -u origin main
+
+"fix:message"               ---- Making any fix in code
+"feat:adding index.html"    ---- adding any feature 
+"refactor:message"          ---- Refactoring the code
 "docs:message"              ---- uploading docs
 "!fix: breaking message"    ---- important fix
 "!feat: breaking message"   ---- important feature
-"chore: message"        --------not much important 
+"chore: message"            ---- not much important 
