@@ -36,7 +36,7 @@ By practicing these Git operations, I aim to improve my version control skills a
 ---
 
 ## Repo Information 
-  **Author:** Adhnan Jeff M S
-  **Date:** 21st July 2025
-  **Topic:** Git for developers  
+-  **Author:** Adhnan Jeff M S
+-  **Date:** 21st July 2025
+-  **Topic:** Git for developers  
 ---
