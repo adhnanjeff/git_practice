@@ -16,3 +16,5 @@ git push -u origin main
 "!fix: breaking message"    ---- important fix
 "!feat: breaking message"   ---- important feature
 "chore: message"            ---- not much important 
+
+git diff                    ---- shows all changes made
